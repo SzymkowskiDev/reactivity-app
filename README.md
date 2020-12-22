@@ -1,25 +1,6 @@
 
-# Project Title
-📊 Size, dependencies, version, code coverage
-
-Short description.
-
-## Contents
-Table of contents goes here
-
-## 📋 Requirements
-Sth.
-
-## ⭐ Features
-Introductory sentance.
-
-⭐ **Feature 1**
-
-Description of feature 1.
-
-⭐ **Feature 2**
-
-Description of feature 2.
+# Reactive App
+The R Shiny app that showcases all the posibilities with the reactivity system of Shiny.
 
 ## 📝 Examples
 **Example 1. Title**
