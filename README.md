@@ -2,6 +2,10 @@
 # Reactive App
 The R Shiny app that showcases all the posibilities with the reactivity system of Shiny.
 
+## 🔗 Links
+* [Reactive App on the Web](https://szymkowskidev.shinyapps.io/reactive-app/)
+* [Medium post](http://markdown.github.io)
+
 ## 📝 Examples
 **Example 1. Title**
 
@@ -19,15 +23,10 @@ CODE GOES HERE
 ## 👨‍💻 Contributing
 Sth
 
-## 📦 Builds
-Sth
+## 📦 Packages
+* shiny
 
-## 📂 Directory Structure
-Sth
-
-## 📅 Release schedule / Development schedule / Plans / TODOs
-**Version 1.0.0**
-
+## 📅 Advantages of reactive expressions
 - [x] Feature 1
 - [x] Feature 2
 - [x] Feature 3
@@ -83,10 +82,7 @@ Description.
 ## 📖 Documentation
 Link to the wiki or external site.
 
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
+
 
 ## 🎓 Learning Materials
 * Description 1 [Name 1](http://markdown.github.io)
