@@ -2,6 +2,8 @@
 # Reactive App
 The R Shiny app that showcases all the posibilities with the reactivity system of Shiny.
 
+
+
 ## 🔗 Links
 * [Reactive App on the Web](https://szymkowskidev.shinyapps.io/reactive-app/)
 * [Medium post](http://markdown.github.io)
@@ -20,16 +22,19 @@ Description of the example.
 CODE GOES HERE
 ```
 
-## 👨‍💻 Contributing
-Sth
+
 
 ## 📦 Packages
 * shiny
 
-## 📅 Advantages of reactive expressions
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
+## ✅ Advantages of reactive expressions
+- [x] Make code easier to maintain
+- [x] Are necessary for even moderate in complexity apps
+- [x] Fewer data operations occur, which is a major advantage when data operations are computing-intensive
+- [x] Fewer call to API need to be made (API throttling)
+- [x] Reactive expressions simplify the code
+- [x] Reactive expressions cache their outputs
+- [x] 
 
 **Version 2.0.0**
 
@@ -37,11 +42,7 @@ Sth
 - [ ] Feature 5
 - [ ] Feature 6
 
-## 🆕 Changelog
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
 
-## ⚙ Configurations
-Sth
 
 ## 💡 Tips
 💭 **Tip 1**
@@ -76,17 +77,9 @@ Solution to error 2.
 
 ``` SOLUTION CODE ```
 
-## 🚀 Upgrading
-Description.
-
-## 📖 Documentation
-Link to the wiki or external site.
-
-
-
 ## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
+* [Shiny reference](https://shiny.rstudio.com/reference/shiny/)
+* [RStudio's article on reactivity](https://shiny.rstudio.com/articles/reactivity-overview.html)
 * Description 3 [Name 3](http://markdown.github.io)
 
 ## 📧 Contact
