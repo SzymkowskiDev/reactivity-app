@@ -2,11 +2,18 @@
 # Reactive App
 The R Shiny app that showcases all the posibilities with the reactivity system of Shiny.
 
-
-
 ## 🔗 Links
 * [Reactive App on the Web](https://szymkowskidev.shinyapps.io/reactive-app/)
 * [Medium post](http://markdown.github.io)
+
+## ✅ Advantages of reactive expressions
+- [x] Make code easier to maintain
+- [x] Are necessary for even moderate in complexity apps
+- [x] Fewer data operations occur, which is a major advantage when data operations are computing-intensive
+- [x] Fewer call to API need to be made (API throttling)
+- [x] Reactive expressions simplify the code
+- [x] Reactive expressions cache their outputs
+- [x] kk
 
 ## 📝 Examples
 **Example 1. Title**
@@ -27,14 +34,7 @@ CODE GOES HERE
 ## 📦 Packages
 * shiny
 
-## ✅ Advantages of reactive expressions
-- [x] Make code easier to maintain
-- [x] Are necessary for even moderate in complexity apps
-- [x] Fewer data operations occur, which is a major advantage when data operations are computing-intensive
-- [x] Fewer call to API need to be made (API throttling)
-- [x] Reactive expressions simplify the code
-- [x] Reactive expressions cache their outputs
-- [x] 
+
 
 **Version 2.0.0**
 
